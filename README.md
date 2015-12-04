@@ -2,7 +2,7 @@
 
 ![BaconIpsum](bacon-ipsum.jpg)
 
-The Bacon Ipsum plugin for Morfy will generate you steaming piles of glorious bacon ipsum.
+The Bacon Ipsum plugin for [Morfy](https://github.com/morfy-cms/morfy) will generate you steaming piles of glorious [bacon ipsum](http://baconipsum.com/).
 
 
 ## Installation
@@ -47,6 +47,14 @@ Set format to return.
 ```
 
 ## Usage in template
+
+Simple usage
+
+```
+{bacon()}
+```
+
+Usage with options
 
 ```smarty
 {bacon(['p' => 5, 'type' => 'meat-and-filler', 'start_with_lorem' => '1', 'sentences' => '3', 'format' => 'json'])}
