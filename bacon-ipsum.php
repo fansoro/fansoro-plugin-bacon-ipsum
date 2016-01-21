@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Morfy Bacon Ipsum Plugin
+ * Fansoro Bacon Ipsum Plugin
  *
  * (c) Romanenko Sergey / Awilum <awilum@msn.com>
  *

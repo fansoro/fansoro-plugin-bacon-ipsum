@@ -2,11 +2,11 @@
 
 ![BaconIpsum](bacon-ipsum.jpg)
 
-The Bacon Ipsum plugin for [Morfy](https://github.com/morfy-cms/morfy) will generate you steaming piles of glorious [bacon ipsum](http://baconipsum.com/).
+The Bacon Ipsum plugin for [Fansoro](https://github.com/fansoro/fansoro) will generate you steaming piles of glorious [bacon ipsum](http://baconipsum.com/).
 
 
 ## Installation
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage in page content
 
@@ -72,4 +72,4 @@ Usage with options
 | format | text | Format `text` (default), json, or ‘html’ |
 
 ## License
-See  [LICENSE](https://github.com/morfy-cms/morfy-plugin-bacon-ipsum/blob/master/LICENSE)
+See  [LICENSE](https://github.com/fansoro/fansoro-plugin-bacon-ipsum/blob/master/LICENSE)
